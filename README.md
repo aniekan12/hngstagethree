@@ -1,4 +1,4 @@
-# hng_task_two_and_five
+# hngstagetwo
 
 A flutter app that takes user input and displays it on the screen.
 
